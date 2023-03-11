@@ -10,7 +10,7 @@ La prédiction se fait automatiquement
 
 ## Utilisation
 L'utilisateur doit juste télécharger le fichier 'prediction_final.ipynb' et l'ouvrir soit à partir de Jupyternotebook soit directement à partir de Python.
-Ensuite il devra suivre les instructions indiquées puis lancer le code et la prédiction sera affichée dans un diagramme à la fin.
+Ensuite il devra suivre les instructions indiquées dans le script puis lancer le code et la prédiction sera affichée dans un diagramme à la fin.
 
 
 ## Auteurs
