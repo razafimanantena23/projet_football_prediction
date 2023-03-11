@@ -1,9 +1,19 @@
 Multinomial Logistic Regression Model to predict football outcomes
+## Table des matières
+* [Description](#Description)
+* [Utilisation](#Utilisation) 
+* [Auteurs](#Auteurs) 
 
-#by DOBROSSY SAMUEL, DJAFON kOKOUVI jOSEPH and RAZAFIMANANTENA IRIANTSOA
+## Description
+Le projet a pour objectif de prédire le résultat d'un match de football en utilisant la regression mutlinomiale.
+La prédiction se fait automatiquement
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.feedinco.com%2Fblog%2Fsucceed-with-accurate-football-predictions&psig=AOvVaw3EIDsg7JWsdtShu7f06D3I&ust=1678481058824000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjB96zbz_0CFQAAAAAdAAAAABAE" />
-#Table des matières
- Description
- Structure
- Utilisation
+## Utilisation
+l'utilisateur doit juste télécharger le fichier 'prediction_final.ipynb' et l'ouvrir soit à partir de Jupyternotebook soit directement à partir de Python.
+Ensuite il devra suivre les instructions indiquées puis lancer le code et la prédiction sera affichée dans un diagramme à la fin.
+
+
+## Auteurs
+* Djafon Joseph
+* Doborossy Samuel
+* Razafimanantena Iriantsoa
