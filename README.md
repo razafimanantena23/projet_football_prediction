@@ -1,11 +1,11 @@
-Multinomial Logistic Regression Model to predict football outcomes
+# Prediction d'un match de football en utlisant la regression multinomiale Logistique
 ## Table des matières
 * [Description](#Description)
 * [Utilisation](#Utilisation) 
 * [Auteurs](#Auteurs) 
 
 ## Description
-Le projet a pour objectif de prédire le résultat d'un match de football en utilisant une regression mutlinomiale Logistique.
+Le projet a pour objectif de prédire le résultat d'un match de football ( Premiere League) en utilisant une regression mutlinomiale Logistique.
 La prédiction se fait automatiquement
 
 ## Utilisation
