@@ -21,8 +21,8 @@ Le projet a pour objectif de prédire le résultat d'un match de football ( en P
 
 ## Utilisation
 
-L'utilisateur doit juste télécharger le fichier 'Project_Match_Prediction.ipynb' et l'ouvrir soit à partir de Jupyternotebook soit directement à partir de Python.
-Ensuite, il exécute l'ensemble du code via l'option run. Le programme lui demandera de renseigner le nom de l'équipe dont le résulat de match doit être prédit, le nom de l'adversaire, et de mettre un code 0 si l'équipe jouera le match à l'extérieur ou un code 1 si l'équipe jouera le match à domicile. L'utilisateur doit appuyer la touche "Entrée" à chaque fois qu'il renseigne ces trois informations. Ensuite, le programme se déroule automatiquement et fournit en fin de code, une figure en secteur indiquant la probabilité pour les différentes issues du match. 
+L'utilisateur doit juste télécharger le fichier 'Project_Match_Prediction.ipynb' et l'ouvrir soit à partir de Jupyter notebook soit directement à partir de Python.
+Ensuite, il exécute l'ensemble du code via l'option run. Le programme lui demandera de renseigner le nom de l'équipe dont le résultat de match doit être prédit, le nom de l'adversaire, et de mettre un code 0 si l'équipe jouera le match à l'extérieur ou un code 1 si l'équipe jouera le match à domicile. L'utilisateur doit appuyer la touche "Entrée" à chaque fois qu'il renseigne ces trois informations. Ensuite, le programme se déroule automatiquement et fournit en fin de code, une figure en secteur indiquant la probabilité pour les différentes issues du match. 
 
 
 ## Auteurs
